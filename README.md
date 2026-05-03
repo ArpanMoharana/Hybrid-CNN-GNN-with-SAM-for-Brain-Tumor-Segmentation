@@ -99,3 +99,4 @@ Final Segmentation
 > High recall ensures minimal missed tumor regions, which is critical in medical diagnosis.
 
 ---
+## NOTE - This project was developed and executed on Google Colab using Google's T4 GPU.
