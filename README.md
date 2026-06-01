@@ -141,3 +141,10 @@ This project was developed and trained using:
 - Google Colab
 - NVIDIA T4 GPU
 - Python 3.9
+---
+## Citation
+
+If you use this work in research, publications, or derivative projects, please cite this repository and acknowledge the authors.
+
+Author: Arpan Kumar Moharana , Sarthak Mudholkar , Abhay Nagote
+Project: Hybrid CNN–GNN with Automated SAM Refinement for Brain Tumor Segmentation
