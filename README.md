@@ -1,4 +1,10 @@
 # 🧠 Hybrid CNN–GNN with Automated SAM Refinement for Brain Tumor Segmentation
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-T4_GPU-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Pipeline](https://raw.githubusercontent.com/ArpanMoharana/Hybrid-CNN-GNN-with-SAM-for-Brain-Tumor-Segmentation/main/Visual%20Output/pipeline.png)
 
 This project presents a hybrid deep learning framework for **accurate brain tumor segmentation** from multi-parametric MRI images.
 
@@ -45,6 +51,18 @@ The pipeline is fully automated and does not require manual segmentation input.
 ![High Level System Design](https://raw.githubusercontent.com/ArpanMoharana/Hybrid-CNN-GNN-with-SAM-for-Brain-Tumor-Segmentation/main/Visual%20Output/high%20level%20system%20design.png)
 ---
 
+## 📂 Dataset
+
+Dataset Used: BraTS 2020
+
+- T1
+- T1ce
+- T2
+- FLAIR
+
+Provides multi-modal MRI images with expert-annotated tumor masks.
+
+---
 ## 🏗️ Architecture Overview
 MRI Input
 │
@@ -115,3 +133,11 @@ Final Segmentation
 > Performance can be further improved using larger and more diverse datasets for better generalization and robustness.
 ---
 ## NOTE - This project was developed and executed on Google Colab using Google's T4 GPU.
+
+## ⚡ Training Environment
+
+This project was developed and trained using:
+
+- Google Colab
+- NVIDIA T4 GPU
+- Python 3.9
