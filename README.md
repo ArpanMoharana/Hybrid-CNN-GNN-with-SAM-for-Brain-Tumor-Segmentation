@@ -142,9 +142,23 @@ This project was developed and trained using:
 - NVIDIA T4 GPU
 - Python 3.9
 ---
-## Citation
+## 📖 Citation
 
 If you use this work in research, publications, or derivative projects, please cite this repository and acknowledge the authors.
 
-Author: Arpan Kumar Moharana , Sarthak Mudholkar , Abhay Nagote
-Project: Hybrid CNN–GNN with Automated SAM Refinement for Brain Tumor Segmentation
+**Authors**
+- Arpan Kumar Moharana
+- Sarthak Mudholkar
+- Abhay Nagote
+
+**Project**
+Hybrid CNN–GNN with Automated SAM Refinement for Brain Tumor Segmentation
+
+---
+## 🔬 Research Contributions
+
+- Hybrid CNN + GNN segmentation framework
+- Automated SAM prompt generation
+- Safety-controlled segmentation refinement
+- Local and global feature fusion
+- Improved tumor boundary precision
